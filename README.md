@@ -4,8 +4,20 @@
 
 ##
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrahmanES1)](https://github.com/abdrahmanES1/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrahmanES1&hide=contribs,prs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdrahmanES1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/abdrahmanES1">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdrahmanES1&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahmanES1&layout=compact&langs_count=7"/>
 </div>

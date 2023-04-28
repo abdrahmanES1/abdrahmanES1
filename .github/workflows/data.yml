@@ -63,9 +63,9 @@ jobs:
    profile-3D-contrib:
       runs-on: ubuntu-latest
       steps:
-         - name: generate-github-profile-3d-contrib
          - uses: actions/checkout@v2
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+         - name: generate-github-profile-3d-contrib
+           uses: yoshi389111/github-profile-3d-contrib@0.7.1
            env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               USERNAME: ${{ github.repository_owner }}

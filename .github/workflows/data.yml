@@ -12,7 +12,7 @@ jobs:
          - uses: actions/checkout@v2
 
          - name: Summary Cards
-           uses: vn7n24fzkq/github-profile-summary-cards@master
+           uses: vn7n24fzkq/github-profile-summary-cards@main
            env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
            with:
@@ -58,18 +58,18 @@ jobs:
          - name: Github metrics
            uses: lowlighter/metrics@master
            with:
-              token: ${{ secrets.ACCESS_TOKEN }}
-              
+              token: ${{ secrets.ACCESS_TOKEN }}      
+                  
    profile-3D-contrib:
       runs-on: ubuntu-latest
-      name: generate-github-profile-3d-contrib
       steps:
+         - name: generate-github-profile-3d-contrib
          - uses: actions/checkout@v2
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.0
-         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: ${{ github.repository_owner }}
-            MAX_REPOS: ${{ github.repository_count }}
+         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+           env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              USERNAME: ${{ github.repository_owner }}
+              MAX_REPOS: ${{ github.repository_count }}
               
               
               

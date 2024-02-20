@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm a Full Stack Engineer
+# I'm a Full Stack Software Developer
 
 
 ### Languages & Tools 🛠
